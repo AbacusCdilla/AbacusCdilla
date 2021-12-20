@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbacusCdilla
 - 👀 I’m interested in Codding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, C++ & PHP
 - 💞️ I’m looking to collaborate on a Mutual Project
 - 📫 How to reach me abcd14022001@gmail.com
 
